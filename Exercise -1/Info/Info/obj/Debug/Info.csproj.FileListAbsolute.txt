@@ -1,0 +1,13 @@
+c:\users\mon\documents\visual studio 2013\Projects\Info\Info\bin\Debug\Info.exe.config
+c:\users\mon\documents\visual studio 2013\Projects\Info\Info\bin\Debug\Info.exe
+c:\users\mon\documents\visual studio 2013\Projects\Info\Info\bin\Debug\Info.pdb
+c:\users\mon\documents\visual studio 2013\Projects\Info\Info\obj\Debug\MainWindow.baml
+c:\users\mon\documents\visual studio 2013\Projects\Info\Info\obj\Debug\MainWindow.g.cs
+c:\users\mon\documents\visual studio 2013\Projects\Info\Info\obj\Debug\App.g.cs
+c:\users\mon\documents\visual studio 2013\Projects\Info\Info\obj\Debug\Info_MarkupCompile.cache
+c:\users\mon\documents\visual studio 2013\Projects\Info\Info\obj\Debug\Info.g.resources
+c:\users\mon\documents\visual studio 2013\Projects\Info\Info\obj\Debug\Info.Properties.Resources.resources
+c:\users\mon\documents\visual studio 2013\Projects\Info\Info\obj\Debug\Info.csproj.GenerateResource.Cache
+c:\users\mon\documents\visual studio 2013\Projects\Info\Info\obj\Debug\Info.exe
+c:\users\mon\documents\visual studio 2013\Projects\Info\Info\obj\Debug\Info.pdb
+C:\Users\MON\Documents\Visual Studio 2013\Projects\Info\Info\obj\Debug\Info.csprojResolveAssemblyReference.cache
